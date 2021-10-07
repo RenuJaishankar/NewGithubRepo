@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.AssemblyInfo.cs
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\bin\Debug\net5.0\EvenOdd.exe
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\bin\Debug\net5.0\EvenOdd.deps.json
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\bin\Debug\net5.0\EvenOdd.runtimeconfig.json
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\bin\Debug\net5.0\EvenOdd.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\bin\Debug\net5.0\EvenOdd.dll
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\bin\Debug\net5.0\ref\EvenOdd.dll
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\bin\Debug\net5.0\EvenOdd.pdb
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.dll
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\ref\EvenOdd.dll
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.pdb
+C:\Users\renuj\source\repos\EvenOdd\EvenOdd\obj\Debug\net5.0\EvenOdd.genruntimeconfig.cache

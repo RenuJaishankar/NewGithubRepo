@@ -1,0 +1,19 @@
+﻿Work starting...
+Disposing all the resources of the Test object DT2: Dispose Called
+Dispose() called on the Test object DP2: Dispose Called
+Disposing all the (managed) resources of the Test object DP2: Dispose Called
+Disposing all the (unmanaged) resources of the Test object DP2: Dispose Called
+Suppressing the finalizer on the Test object DP2: Dispose Called
+Using for dt3 starting(have access to dt3 now...)
+Using for dt3 exiting...
+Disposing all the resources of the Test object DT3: using statment
+in work between usings...
+Using for dp3 starting (have access to dp3 now...)
+Using for dp3 exiting...
+Dispose() called on the Test object DP3: using statement
+Disposing all the (managed) resources of the Test object DP3: using statement
+Disposing all the (unmanaged) resources of the Test object DP3: using statement
+Suppressing the finalizer on the Test object DP3: using statement
+Work ending...
+Destructor/Finalizer called on the Test object DP1: Dispose not Called
+Disposing all the (unmanaged) resources of the Test object DP1: Dispose not Called

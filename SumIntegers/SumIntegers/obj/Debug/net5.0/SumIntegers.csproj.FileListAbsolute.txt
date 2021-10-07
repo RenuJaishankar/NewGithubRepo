@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\bin\Debug\net5.0\SumIntegers.exe
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\bin\Debug\net5.0\SumIntegers.deps.json
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\bin\Debug\net5.0\SumIntegers.runtimeconfig.json
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\bin\Debug\net5.0\SumIntegers.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\bin\Debug\net5.0\SumIntegers.dll
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\bin\Debug\net5.0\ref\SumIntegers.dll
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\bin\Debug\net5.0\SumIntegers.pdb
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.AssemblyInfo.cs
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.dll
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\ref\SumIntegers.dll
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.pdb
+C:\Users\renuj\source\repos\SumIntegers\SumIntegers\obj\Debug\net5.0\SumIntegers.genruntimeconfig.cache

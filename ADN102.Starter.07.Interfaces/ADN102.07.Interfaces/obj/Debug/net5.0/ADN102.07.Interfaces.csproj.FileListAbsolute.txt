@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\bin\Debug\net5.0\ADN102.07.Interfaces.exe
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\bin\Debug\net5.0\ADN102.07.Interfaces.deps.json
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\bin\Debug\net5.0\ADN102.07.Interfaces.runtimeconfig.json
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\bin\Debug\net5.0\ADN102.07.Interfaces.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\bin\Debug\net5.0\ADN102.07.Interfaces.dll
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\bin\Debug\net5.0\ref\ADN102.07.Interfaces.dll
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\bin\Debug\net5.0\ADN102.07.Interfaces.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.AssemblyInfo.cs
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.dll
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ref\ADN102.07.Interfaces.dll
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.07.Interfaces\ADN102.07.Interfaces\obj\Debug\net5.0\ADN102.07.Interfaces.genruntimeconfig.cache

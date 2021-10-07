@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.AssemblyInfo.cs
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.exe
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.deps.json
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.runtimeconfig.json
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.dll
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\bin\Debug\net5.0\ref\CountYourLetters.dll
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\bin\Debug\net5.0\CountYourLetters.pdb
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.dll
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\ref\CountYourLetters.dll
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.pdb
+C:\Users\renuj\source\repos\CountYourLetters\CountYourLetters\obj\Debug\net5.0\CountYourLetters.genruntimeconfig.cache

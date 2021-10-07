@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MethodTesting": {
+      "commandName": "Project",
+      "commandLineArgs": "One Two Three"
+    }
+  }
+}

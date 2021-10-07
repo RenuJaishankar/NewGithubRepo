@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\bin\Debug\net5.0\Enumtesting.exe
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\bin\Debug\net5.0\Enumtesting.deps.json
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\bin\Debug\net5.0\Enumtesting.runtimeconfig.json
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\bin\Debug\net5.0\Enumtesting.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\bin\Debug\net5.0\Enumtesting.dll
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\bin\Debug\net5.0\ref\Enumtesting.dll
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\bin\Debug\net5.0\Enumtesting.pdb
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.AssemblyInfo.cs
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.dll
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\ref\Enumtesting.dll
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.pdb
+C:\Users\renuj\source\repos\Enumtesting\Enumtesting\obj\Debug\net5.0\Enumtesting.genruntimeconfig.cache

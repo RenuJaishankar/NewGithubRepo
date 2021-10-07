@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BlackProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "InterfacesProject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlackProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlackProject.dll": {}
+        }
+      },
+      "InterfacesProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/InterfacesProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfacesProject.dll": {}
+        }
+      },
+      "OtherColorsPorject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BlackProject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OtherColorsPorject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OtherColorsPorject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackProject/1.0.0": {
+      "type": "project",
+      "path": "../BlackProject/BlackProject.csproj",
+      "msbuildProject": "../BlackProject/BlackProject.csproj"
+    },
+    "InterfacesProject/1.0.0": {
+      "type": "project",
+      "path": "../InterfacesProject/InterfacesProject.csproj",
+      "msbuildProject": "../InterfacesProject/InterfacesProject.csproj"
+    },
+    "OtherColorsPorject/1.0.0": {
+      "type": "project",
+      "path": "../OtherColorsPorject/OtherColorsPorject.csproj",
+      "msbuildProject": "../OtherColorsPorject/OtherColorsPorject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BlackProject >= 1.0.0",
+      "InterfacesProject >= 1.0.0",
+      "OtherColorsPorject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\renuj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\FactoryProject\\FactoryProject.csproj",
+      "projectName": "FactoryProject",
+      "projectPath": "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\FactoryProject\\FactoryProject.csproj",
+      "packagesPath": "C:\\Users\\renuj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\FactoryProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\renuj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\BlackProject\\BlackProject.csproj": {
+              "projectPath": "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\BlackProject\\BlackProject.csproj"
+            },
+            "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj": {
+              "projectPath": "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj"
+            },
+            "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\OtherColorsPorject\\OtherColorsPorject.csproj": {
+              "projectPath": "C:\\Users\\renuj\\source\\repos\\ADN102.Starter.09.AssembliesSolution\\OtherColorsPorject\\OtherColorsPorject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

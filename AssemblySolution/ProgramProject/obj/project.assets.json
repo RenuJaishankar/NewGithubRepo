@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BlackProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "InterfacesProject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlackProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlackProject.dll": {}
+        }
+      },
+      "FactoryProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BlackProject": "1.0.0",
+          "InterfacesProject": "1.0.0",
+          "OtherColorsProject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FactoryProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryProject.dll": {}
+        }
+      },
+      "InterfacesProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/InterfacesProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfacesProject.dll": {}
+        }
+      },
+      "OtherColorsProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BlackProject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OtherColorsProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OtherColorsProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackProject/1.0.0": {
+      "type": "project",
+      "path": "../BlackProject/BlackProject.csproj",
+      "msbuildProject": "../BlackProject/BlackProject.csproj"
+    },
+    "FactoryProject/1.0.0": {
+      "type": "project",
+      "path": "../FactoryProject/FactoryProject.csproj",
+      "msbuildProject": "../FactoryProject/FactoryProject.csproj"
+    },
+    "InterfacesProject/1.0.0": {
+      "type": "project",
+      "path": "../InterfacesProject/InterfacesProject.csproj",
+      "msbuildProject": "../InterfacesProject/InterfacesProject.csproj"
+    },
+    "OtherColorsProject/1.0.0": {
+      "type": "project",
+      "path": "../OtherColorsProject/OtherColorsProject.csproj",
+      "msbuildProject": "../OtherColorsProject/OtherColorsProject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "FactoryProject >= 1.0.0",
+      "InterfacesProject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\renuj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\renuj\\source\\repos\\AssemblySolution\\ProgramProject\\ProgramProject.csproj",
+      "projectName": "ProgramProject",
+      "projectPath": "C:\\Users\\renuj\\source\\repos\\AssemblySolution\\ProgramProject\\ProgramProject.csproj",
+      "packagesPath": "C:\\Users\\renuj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\renuj\\source\\repos\\AssemblySolution\\ProgramProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\renuj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\renuj\\source\\repos\\AssemblySolution\\FactoryProject\\FactoryProject.csproj": {
+              "projectPath": "C:\\Users\\renuj\\source\\repos\\AssemblySolution\\FactoryProject\\FactoryProject.csproj"
+            },
+            "C:\\Users\\renuj\\source\\repos\\AssemblySolution\\InterfacesProject\\InterfacesProject.csproj": {
+              "projectPath": "C:\\Users\\renuj\\source\\repos\\AssemblySolution\\InterfacesProject\\InterfacesProject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

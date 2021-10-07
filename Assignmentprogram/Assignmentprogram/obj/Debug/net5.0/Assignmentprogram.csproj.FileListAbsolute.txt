@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.AssemblyInfo.cs
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\bin\Debug\net5.0\Assignmentprogram.exe
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\bin\Debug\net5.0\Assignmentprogram.deps.json
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\bin\Debug\net5.0\Assignmentprogram.runtimeconfig.json
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\bin\Debug\net5.0\Assignmentprogram.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\bin\Debug\net5.0\Assignmentprogram.dll
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\bin\Debug\net5.0\ref\Assignmentprogram.dll
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\bin\Debug\net5.0\Assignmentprogram.pdb
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.dll
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\ref\Assignmentprogram.dll
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.pdb
+C:\Users\renuj\source\repos\Assignmentprogram\Assignmentprogram\obj\Debug\net5.0\Assignmentprogram.genruntimeconfig.cache

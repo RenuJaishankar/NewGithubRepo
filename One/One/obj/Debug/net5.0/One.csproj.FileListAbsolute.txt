@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\One\One\bin\Debug\net5.0\One.exe
+C:\Users\renuj\source\repos\One\One\bin\Debug\net5.0\One.deps.json
+C:\Users\renuj\source\repos\One\One\bin\Debug\net5.0\One.runtimeconfig.json
+C:\Users\renuj\source\repos\One\One\bin\Debug\net5.0\One.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\One\One\bin\Debug\net5.0\One.dll
+C:\Users\renuj\source\repos\One\One\bin\Debug\net5.0\ref\One.dll
+C:\Users\renuj\source\repos\One\One\bin\Debug\net5.0\One.pdb
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.AssemblyInfo.cs
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.dll
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\ref\One.dll
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.pdb
+C:\Users\renuj\source\repos\One\One\obj\Debug\net5.0\One.genruntimeconfig.cache

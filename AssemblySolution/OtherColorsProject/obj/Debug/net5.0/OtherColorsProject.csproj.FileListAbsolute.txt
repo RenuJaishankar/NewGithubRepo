@@ -1,0 +1,17 @@
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.AssemblyInfo.cs
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\OtherColorsProject.deps.json
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\OtherColorsProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\ref\OtherColorsProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\OtherColorsProject.pdb
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\BlackProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\InterfacesProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\BlackProject.pdb
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\bin\Debug\net5.0\InterfacesProject.pdb
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.csproj.CopyComplete
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\ref\OtherColorsProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\OtherColorsProject\obj\Debug\net5.0\OtherColorsProject.pdb

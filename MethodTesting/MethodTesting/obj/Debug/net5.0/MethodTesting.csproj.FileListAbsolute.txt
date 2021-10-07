@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.AssemblyInfo.cs
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\bin\Debug\net5.0\MethodTesting.exe
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\bin\Debug\net5.0\MethodTesting.deps.json
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\bin\Debug\net5.0\MethodTesting.runtimeconfig.json
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\bin\Debug\net5.0\MethodTesting.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\bin\Debug\net5.0\MethodTesting.dll
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\bin\Debug\net5.0\ref\MethodTesting.dll
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\bin\Debug\net5.0\MethodTesting.pdb
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.dll
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\ref\MethodTesting.dll
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.pdb
+C:\Users\renuj\source\repos\MethodTesting\MethodTesting\obj\Debug\net5.0\MethodTesting.genruntimeconfig.cache

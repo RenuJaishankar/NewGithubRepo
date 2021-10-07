@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ADN102.05.Classes": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}

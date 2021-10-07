@@ -1,0 +1,5 @@
+C:\Users\renuj\source\repos\AnotherProgram\AnotherProgram\obj\Debug\net5.0\AnotherProgram.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\AnotherProgram\AnotherProgram\obj\Debug\net5.0\AnotherProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\AnotherProgram\AnotherProgram\obj\Debug\net5.0\AnotherProgram.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\AnotherProgram\AnotherProgram\obj\Debug\net5.0\AnotherProgram.AssemblyInfo.cs
+C:\Users\renuj\source\repos\AnotherProgram\AnotherProgram\obj\Debug\net5.0\AnotherProgram.csproj.CoreCompileInputs.cache

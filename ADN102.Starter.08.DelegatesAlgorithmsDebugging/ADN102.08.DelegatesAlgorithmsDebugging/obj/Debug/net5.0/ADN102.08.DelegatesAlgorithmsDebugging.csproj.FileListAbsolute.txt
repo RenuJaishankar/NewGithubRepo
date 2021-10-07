@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\bin\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.exe
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\bin\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.deps.json
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\bin\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.runtimeconfig.json
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\bin\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\bin\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.dll
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\bin\Debug\net5.0\ref\ADN102.08.DelegatesAlgorithmsDebugging.dll
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\bin\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.AssemblyInfo.cs
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.dll
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ref\ADN102.08.DelegatesAlgorithmsDebugging.dll
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.08.DelegatesAlgorithmsDebugging\ADN102.08.DelegatesAlgorithmsDebugging\obj\Debug\net5.0\ADN102.08.DelegatesAlgorithmsDebugging.genruntimeconfig.cache

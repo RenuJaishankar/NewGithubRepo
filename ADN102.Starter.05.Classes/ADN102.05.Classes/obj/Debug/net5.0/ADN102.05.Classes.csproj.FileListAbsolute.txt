@@ -1,0 +1,17 @@
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.AssemblyInfo.cs
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\sales.csv
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\ADN102.05.Classes.exe
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\ADN102.05.Classes.deps.json
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\ADN102.05.Classes.runtimeconfig.json
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\ADN102.05.Classes.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\ADN102.05.Classes.dll
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\ref\ADN102.05.Classes.dll
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\bin\Debug\net5.0\ADN102.05.Classes.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.dll
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ref\ADN102.05.Classes.dll
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.05.Classes\ADN102.05.Classes\obj\Debug\net5.0\ADN102.05.Classes.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\bin\Debug\net5.0\InterfacesProject.deps.json
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\bin\Debug\net5.0\InterfacesProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\bin\Debug\net5.0\ref\InterfacesProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\bin\Debug\net5.0\InterfacesProject.pdb
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\InterfacesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\InterfacesProject.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\InterfacesProject.AssemblyInfo.cs
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\InterfacesProject.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\InterfacesProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\ref\InterfacesProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\InterfacesProject.pdb
+C:\Users\renuj\source\repos\AssemblySolution\InterfacesProject\obj\Debug\net5.0\InterfacesProject.csproj.AssemblyReference.cache

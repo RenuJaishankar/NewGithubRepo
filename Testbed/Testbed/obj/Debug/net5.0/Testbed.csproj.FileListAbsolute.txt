@@ -1,0 +1,16 @@
+C:\Users\renuj\source\repos\Testbed\Testbed\bin\Debug\net5.0\Testbed.exe
+C:\Users\renuj\source\repos\Testbed\Testbed\bin\Debug\net5.0\Testbed.deps.json
+C:\Users\renuj\source\repos\Testbed\Testbed\bin\Debug\net5.0\Testbed.runtimeconfig.json
+C:\Users\renuj\source\repos\Testbed\Testbed\bin\Debug\net5.0\Testbed.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\Testbed\Testbed\bin\Debug\net5.0\Testbed.dll
+C:\Users\renuj\source\repos\Testbed\Testbed\bin\Debug\net5.0\ref\Testbed.dll
+C:\Users\renuj\source\repos\Testbed\Testbed\bin\Debug\net5.0\Testbed.pdb
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.AssemblyInfo.cs
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.dll
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\ref\Testbed.dll
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.pdb
+C:\Users\renuj\source\repos\Testbed\Testbed\obj\Debug\net5.0\Testbed.genruntimeconfig.cache

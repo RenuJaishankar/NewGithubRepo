@@ -1,0 +1,15 @@
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.AssemblyInfo.cs
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\bin\Debug\net5.0\BlackProject.deps.json
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\bin\Debug\net5.0\BlackProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\bin\Debug\net5.0\ref\BlackProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\bin\Debug\net5.0\BlackProject.pdb
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\bin\Debug\net5.0\InterfacesProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\bin\Debug\net5.0\InterfacesProject.pdb
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.csproj.CopyComplete
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\ref\BlackProject.dll
+C:\Users\renuj\source\repos\AssemblySolution\BlackProject\obj\Debug\net5.0\BlackProject.pdb
